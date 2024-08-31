@@ -1,4 +1,3 @@
-
 function getShippingCost(country) {
   switch (country) {
     case 'Australia':
